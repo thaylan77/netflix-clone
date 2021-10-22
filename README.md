@@ -7,6 +7,9 @@ I used compound components (just a design pattern) to build my components, and t
 
 ## Preview  
 ![Preview](Screenshot_198.png?raw=true)
+## Preview  
 ![Preview](Screenshot_199.png?raw=true)
+## Preview  
 ![Preview](Screenshot_201.png?raw=true)
+## Preview  
 ![Preview](Screenshot_202.png?raw=true)
